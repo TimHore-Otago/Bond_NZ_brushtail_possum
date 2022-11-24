@@ -1,4 +1,4 @@
-# TET_specificity
+# NZ brushtail possum genome
 This repository contains the scripts and datasets for the paper "The admixed genome of New Zealand brushtail possum reveals invasion history and novel marsupial imprinted genes, Bond et al."
 
 ## Components of the analysis
