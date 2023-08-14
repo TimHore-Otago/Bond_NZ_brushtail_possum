@@ -3,7 +3,11 @@ This repository contains the scripts and datasets for the paper "The admixed gen
 
 ## Components of the analysis
 ### Scripts
-### Datasets
+- Bash script for RNA-seq variant calling.
+- Bash script for DNA-seq variant calling.
+- Bash script for mithocondrial genome reconstruction.
+- Bash script for low-coverage whole genome bisulfite sequencing analysis.
+- Bash script for allele-specific methylation using NanoMethPhase.
 
-Last update: 15:43 24/11/2022 EST
+Last update: 15:15 14/08/2023 EST
 
